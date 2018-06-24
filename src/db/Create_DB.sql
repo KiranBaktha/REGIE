@@ -1,4 +1,4 @@
-/*This is the create script where only tables are created in the database. More tables to be added in later deliverables. */
+/*This is the create script where only tables are created in the database.  */
 create database if not exists kiranDB ;
 use kiranDB;
 /* Course_Database table would store the course_code(primary key) along with the course name,venue and time*/
