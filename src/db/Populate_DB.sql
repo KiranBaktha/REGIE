@@ -1,4 +1,4 @@
-/*This is the populate script where the tables in the database are populated. More data to be added in later deliverables.*/
+/*This is the populate script where the tables in the database are populated.*/
 /*Populate Course_Database table.*/
 insert into Course values('MPCS_51410','Object Oriented Programming','Ryerson-271','Tuesday 17:30-20:30',1);
 insert into Course values('MPCS_52011','Introduction to Computer Systems','Ryerson-251','Monday 17:30-20:30',0);
